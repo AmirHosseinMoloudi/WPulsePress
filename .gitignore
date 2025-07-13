@@ -1,0 +1,14 @@
+venv
+.venv
+/venv
+./venv
+
+specstory
+.specstory
+/specstory
+./specstory
+
+website_health.log
+.website_health.log
+/website_health.log
+./website_health.log

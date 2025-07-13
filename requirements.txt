@@ -1,0 +1,4 @@
+httpx
+schedule
+beautifulsoup4
+colorama
